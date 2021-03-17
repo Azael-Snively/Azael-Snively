@@ -3,8 +3,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Azael Snively</h1>
+<h1 align="center">Hi 👋, I'm Azael Snively hope you're doing good</h1>
 <h3 align="center">A passionate frontend developer from Cameroon</h3>
+<p>I love coding i am 13 years old and i am think i am most a frontend developper i love work on UI and learn new thing i also love work in team with other people for share us knowledge and upgrade us for be better  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azael-snively&label=Profile%20views&color=0e75b6&style=flat" alt="azael-snively" /> </p>
 
@@ -18,7 +19,7 @@
 
 - 📫 How to reach me **icealley2@gmail.com**
 
-- ⚡ Fun fact **I am love work in team**
+- ⚡ Fun fact **I hate bug**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azael-Snively)](https://github.com/anuraghazra/github-readme-stats)
 
