@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🤝 I’m looking for help with **HTML and CSS design**
+- 🤝 I’m looking for help with **Backend development**
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
