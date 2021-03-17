@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/azael snively" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="azael snively" height="30" width="40" /></a>
+<a href="https://dev.to/Azael Snively" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="azael snively" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:14521073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:14521073" height="30" width="40" /></a>
 <a href="https://discord.gg/Azael Snively#9904" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Azael Snively#9904" height="30" width="40" /></a>
 </p>
