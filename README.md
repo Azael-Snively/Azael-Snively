@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **icealley2@gmail.com**
 
-- ⚡ Fun fact **I hate bug**
+- ⚡ Fun fact **I pass 10% of my time to develop and 90% to debugging**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azael-Snively)](https://github.com/anuraghazra/github-readme-stats)
 
