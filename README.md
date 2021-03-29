@@ -42,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azael-snively&show_icons=true&locale=en" alt="azael-snively" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azael-snively&" alt="azael-snively" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azael-Snively)
