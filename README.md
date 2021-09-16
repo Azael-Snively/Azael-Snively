@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
-- 📫 How to reach me **icealley2@gmail.com**
+- 📫 How to reach me **msnivelya@gmail.com**
 
 - ⚡ Fun fact **I pass 10% of my time to develop and 90% to debugging**
 
